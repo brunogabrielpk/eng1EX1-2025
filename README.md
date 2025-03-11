@@ -22,7 +22,7 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
         Exemplo: "Olá, meu nome é João Silva, e sou da turma X."
   2. **Configuração do Obsidian**:
       - Abra o Obsidian e crie uma nova vault (cofre)
-      - Dentro dessa Vault, crie uma pasta com o nome "Minhas_Notas".  
+      - Dentro dessa vault, crie uma pasta com o nome "Minhas_Notas".  
   3. **Criação de nota**:
       - Dentro da pasta "Minhas_Notas", crie uma nota com o título "Minha_Primeira_Nota".  
       - Na nota, escreva o seguinte conteúdo, aplicando os recursos de formatação indicados:  
@@ -35,9 +35,9 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
           (você pode usar uma imagem de sua preferência ou  
            buscar uma online e inserir o link no formato adequado)  
   4. **Criação de canvas**:
-    - Ainda na mesma Vault, crie um novo canvas com o nome "Mapa_Mental".
-    - No Canvas, elabore um mapa mental simples com pelo menos 4 itens conectados por setas.  
-    - Use cores diferentes para destacar os itens.
+    - Ainda na mesma Vault, crie um novo canvas com o nome "Mapa_Mental".  
+    - No Canvas, elabore um mapa mental simples com pelo menos 4 itens conectados por setas.    
+    - Use cores diferentes para destacar os itens.  
     - Exemplo de tema para o mapa mental: "Planejamento de Estudos" ou "Rotina Diária".  
 
 ## Finalização e envio  
