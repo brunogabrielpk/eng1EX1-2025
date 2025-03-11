@@ -35,10 +35,10 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
           (você pode usar uma imagem de sua preferência ou  
            buscar uma online e inserir o link no formato adequado)  
   4. **Criação de canvas:**  
-    - Ainda na mesma Vault, crie um novo canvas com o nome "Mapa_Mental".  
-    - No Canvas, elabore um mapa mental simples com pelo menos 4 itens conectados por setas.    
-    - Use cores diferentes para destacar os itens.  
-    - Exemplo de tema para o mapa mental: "Planejamento de Estudos" ou "Rotina Diária".  
+  - Ainda na mesma Vault, crie um novo canvas com o nome "Mapa_Mental".  
+  - No Canvas, elabore um mapa mental simples com pelo menos 4 itens conectados por setas.    
+  - Use cores diferentes para destacar os itens.  
+  - Exemplo de tema para o mapa mental: "Planejamento de Estudos" ou "Rotina Diária".  
 
 ## Finalização e envio  
   - Após concluir a gravação, revise o vídeo para garantir que todos os passos foram registrados corretamente.
