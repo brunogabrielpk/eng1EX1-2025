@@ -8,9 +8,8 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
 ### Preparação inicial
   1. Certifique-se de que o Obsidian está instalado em seu computador.
   2. Caso contrário, baixe e instale a partir do site oficial: [Obsidian](https://obsidian.md/).
-  3. **É necessário que a atividade seja realizada a partir de um computador (Windows, MacOS, Linux, BSD ...)**
-  4. **Não será aceito nenhuma atividade realizada a partir de dispositivos móveis:**  
-    a. **(Android, iOS, ...)**  
+  3. **É necessário que a atividade seja realizada com um computador (Windows, MacOS, Linux, BSD ...)**
+  4. **Não será aceito atividade realizada a partir de dispositivos móveis: (Android, iOS, ...)**  
   5. Escolha um local tranquilo para gravar o vídeo, garantindo que sua voz seja clara e que o ambiente esteja organizado.
 
 ## Gravação do vídeo
