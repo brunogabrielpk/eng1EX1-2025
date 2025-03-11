@@ -9,7 +9,8 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
   1. Certifique-se de que o Obsidian está instalado em seu computador.
   2. Caso contrário, baixe e instale a partir do site oficial: [Obsidian](https://obsidian.md/).
   3. **É necessário que a atividade seja realizada a partir de um computador (Windows, MacOS, Linux, BSD ...)**
-  4. **Não será aceito nenhuma atividade realizada a partir de dispositivos móveis (Android, iOS, ...)**
+  4. **Não será aceito nenhuma atividade realizada a partir de dispositivos móveis:**  
+    a. **(Android, iOS, ...)**  
   5. Escolha um local tranquilo para gravar o vídeo, garantindo que sua voz seja clara e que o ambiente esteja organizado.
 
 ## Gravação do vídeo
@@ -22,7 +23,7 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
         Exemplo: "Olá, meu nome é João Silva, e sou da turma X."
   2. **Configuração do Obsidian**:
       - Abra o Obsidian e crie uma nova vault (cofre)
-      - Dentro dessa Vault, crie uma pasta com o nome "Minhas_Notas".  :w
+      - Dentro dessa Vault, crie uma pasta com o nome "Minhas_Notas".  
   3. **Criação de nota**:
       - Dentro da pasta "Minhas_Notas", crie uma nota com o título "Minha_Primeira_Nota".  
       - Na nota, escreva o seguinte conteúdo, aplicando os recursos de formatação indicados:  
@@ -31,8 +32,9 @@ Você precisará organizar informações de forma estruturada, utilizando recurs
       - Uma **citação** sobre apredizado ou organização( use `>` para formatar como citação).  
       - Um trecho em **Negrito** e outro em *ítalico*.  
       - Um link para uma website de sua escolha (ex. [Google](https:www.google.com)).
-      - Uma imagem renderizada (você pode usar uma imagem de sua preferência ou buscar uma online e inserir o link  
-        no formato adequado)
+      - Uma imagem renderizada:  
+          (você pode usar uma imagem de sua preferência ou  
+           buscar uma online e inserir o link no formato adequado)  
   4. **Criação de canvas**:
     - Ainda na mesma Vault, crie um novo canvas com o nome "Mapa_Mental".
     - No Canvas, elabore um mapa mental simples com pelo menos 4 itens conectados por setas.  
